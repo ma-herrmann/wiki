@@ -3,4 +3,4 @@
 
 # Wiki für Standarddetails
 
-[Trennwandanschlüsse](/|Trennwände)
+[Trennwandanschlüsse](/|Trennwaende)
