@@ -1,6 +1,6 @@
 <!-- TITLE: Startseite -->
 <!-- SUBTITLE: Zusammenfassung -->
 
-# Kopfzeile
+# Wiki für Standarddetails
 
-Hallo und herzlich willkommen
+[[Trennwandanschlüsse|Trennwände]]
